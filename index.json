@@ -1,0 +1,700 @@
+{
+  "files": [
+    {
+      "path": "index_controller.js",
+      "size": 2002,
+      "sha256": "023c540a0124b3ef02bb6ae1dba1b96de54b88a85c66bc742c485ce3e7e23277",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/index_controller.js"
+    },
+    {
+      "path": "custom.css",
+      "size": 14742,
+      "sha256": "a251c5d1e68ba9a6aa5cff96be30bbe9172bb2c1ecc0e60f38d81dea92e426e1",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/custom.css"
+    },
+    {
+      "path": ".htaccess",
+      "size": 143,
+      "sha256": "41d6fdf86ad36a0b5b94f985dfc4c8a797e1f0ed402c61e520fc46fb06540f89",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/.htaccess"
+    },
+    {
+      "path": "index.php",
+      "size": 4702,
+      "sha256": "830958818d1efe317c00da13e637f113503cf3007eb31b7ed0e32490a26ec6bf",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/index.php"
+    },
+    {
+      "path": "api/xfer_list_columns.php",
+      "size": 1302,
+      "sha256": "86914c84b4fd19e7f131e98c8ee0178c5392d9485a28b24eb121d03ff7c7bf29",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/api/xfer_list_columns.php"
+    },
+    {
+      "path": "api/xfer_list_tables.php",
+      "size": 1139,
+      "sha256": "84289c7d2fbb6547396b5499032e8deae70ecf00c42aa1393b75edab40058400",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/api/xfer_list_tables.php"
+    },
+    {
+      "path": "api/xfer_list_servers.php",
+      "size": 690,
+      "sha256": "bf1182a29c89dcd13d9fb3ea97837b32df5bc9ecc9d58c1957cf6dd0f5c7c45b",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/api/xfer_list_servers.php"
+    },
+    {
+      "path": "api/xfer_generate_table_sql.php",
+      "size": 12628,
+      "sha256": "5ca8d6ba07b98424bc483a4d648b2a264719db5799f5f8abbcb0195587ee644d",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/api/xfer_generate_table_sql.php"
+    },
+    {
+      "path": "api/xfer_list_databases.php",
+      "size": 1025,
+      "sha256": "32dae6a62c1368b53b9b6db60421adf0bdd3bf7932a7a584513f34accd08a12e",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/api/xfer_list_databases.php"
+    },
+    {
+      "path": "partials/footer.php",
+      "size": 2188,
+      "sha256": "a6b923123ba52012491319c3c6125b867d2532f62a2c18de1b6254b430464cd3",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/partials/footer.php"
+    },
+    {
+      "path": "partials/web_helpers.php",
+      "size": 4471,
+      "sha256": "d35d48b8a4ee63ad5055d5e9f577bdf2d1e456ffec08bdb14e5323055547a3c4",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/partials/web_helpers.php"
+    },
+    {
+      "path": "partials/bootstrap.php",
+      "size": 1913,
+      "sha256": "563d7ca4b33152bad9ba1a5c4b9a1384d4009ae9f43e4b5f1c09c093244c55e9",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/partials/bootstrap.php"
+    },
+    {
+      "path": "partials/header.php",
+      "size": 9783,
+      "sha256": "42db51abb6d3c1dd3db5e443a5126accf624b29cb8aa6ba5b203e3694364e077",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/partials/header.php"
+    },
+    {
+      "path": "partials/crypto.php",
+      "size": 929,
+      "sha256": "619a62255c215dbf74f7fabf872532866f4b8ec352d9bab582fd93c04cd2cc59",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/partials/crypto.php"
+    },
+    {
+      "path": "apps/mysql/index.php",
+      "size": 17133,
+      "sha256": "3deb22067d40d4e2e42465cd281b9b66f8faac4612202db428f30d81c8975998",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/mysql/index.php"
+    },
+    {
+      "path": "apps/transfer/runs.php",
+      "size": 10776,
+      "sha256": "715d31fd59d704b4531ffd85cf9d864839c81ac0a7f9c08ec3bf7230b9e5ce67",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/runs.php"
+    },
+    {
+      "path": "apps/transfer/transfer_run_stop.php",
+      "size": 664,
+      "sha256": "3edb0421b3f67e63d366fc8c065a7a7174e422dd097c41797821e6894365ff55",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/transfer_run_stop.php"
+    },
+    {
+      "path": "apps/transfer/job_edit.php",
+      "size": 20238,
+      "sha256": "15d6c3796d4134541608137aafb3511f098fb5cf0315afe58ffbbe081d6a8f39",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/job_edit.php"
+    },
+    {
+      "path": "apps/transfer/runner.php",
+      "size": 7620,
+      "sha256": "e71a30f9f7b3383c12395570eaee32f075a56d894d85f9bd2bdda989129c2e80",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/runner.php"
+    },
+    {
+      "path": "apps/transfer/transfer_job_save.php",
+      "size": 492,
+      "sha256": "ccc3bd79bfe4fc66ede6f87a1a3a15fde11122b9be14c234dd1ac799f17b69d1",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/transfer_job_save.php"
+    },
+    {
+      "path": "apps/transfer/storage.php",
+      "size": 8008,
+      "sha256": "e7e3b9852d3e777009669a81fb306266254e3346a21974adf31a815069371e93",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/storage.php"
+    },
+    {
+      "path": "apps/transfer/index.php",
+      "size": 3275,
+      "sha256": "8ba7f51027e09224c2180a0806ba7ba641124c6ca4f453191526021e1fd160c2",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/index.php"
+    },
+    {
+      "path": "apps/transfer/transfer_job_run.php",
+      "size": 399,
+      "sha256": "284e8c9aba6dd3e495e9c40b4e67932f9f7a384f646e4d39eee8ec9a1e2aa948",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/transfer/transfer_job_run.php"
+    },
+    {
+      "path": "apps/ts/server-ts_logic.php",
+      "size": 11398,
+      "sha256": "0c1422c68336c12e6d302c5f9f5dbbacceddc28be93e946758176ab66dc2900f",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/ts/server-ts_logic.php"
+    },
+    {
+      "path": "apps/ts/server-ts_bindings.js",
+      "size": 4043,
+      "sha256": "4fa66423a6306ef5bc43f79cd4c80331dab03b10bb9b150143fcd3d63db0fb1d",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/ts/server-ts_bindings.js"
+    },
+    {
+      "path": "apps/ts/server-ts_addons.js",
+      "size": 5521,
+      "sha256": "ced11591ea7fb80627863612817bc53a00b7429392b43e32ad8fe5ef4fa4f2fe",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/ts/server-ts_addons.js"
+    },
+    {
+      "path": "apps/ts/server-ts.php",
+      "size": 7901,
+      "sha256": "cc0ccde3d51b6c5e018e03f54fbdb40e84b1fbb2b436c367d56e7c848314e8ea",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/ts/server-ts.php"
+    },
+    {
+      "path": "apps/ts/server-ts_render.js",
+      "size": 10509,
+      "sha256": "ea8959bd883b788c7b720fc339f1c24020e8cc5df4ca07a13dddf9a4f10659f8",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/ts/server-ts_render.js"
+    },
+    {
+      "path": "apps/ts/server-ts_core.js",
+      "size": 8812,
+      "sha256": "18416a06e2eb76f88b0594cec0dd4308426b8c2f761920707bfbe4e7683e123b",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/apps/ts/server-ts_core.js"
+    },
+    {
+      "path": "tools/table_usage_audit.php",
+      "size": 17231,
+      "sha256": "e771d91173b58b689a25f94c832cf6de4c02bed7e4a66fee3449c35efe5b47f4",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/table_usage_audit.php"
+    },
+    {
+      "path": "tools/broken_links_check.php",
+      "size": 22317,
+      "sha256": "01cb1de5e9b4e6f025427dd533163941f8c737b69753cb757fbb70c80a4a627e",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/broken_links_check.php"
+    },
+    {
+      "path": "tools/file_usage_excludes.ini",
+      "size": 250,
+      "sha256": "5a36ca70aa68a8b252ca998e49d93d71076fea1964d23aaa8cad13b4c8168eb6",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/file_usage_excludes.ini"
+    },
+    {
+      "path": "tools/php_info.php",
+      "size": 7018,
+      "sha256": "478b42487c83698d43a39867e01da0493e9100446420128faae6b1ae75eb379b",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/php_info.php"
+    },
+    {
+      "path": "tools/self_check.php",
+      "size": 6631,
+      "sha256": "fb8ca11b40e1cb0b0288ab2d0a73d25eab869f06d95fffb079d65fc76a1934e1",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/self_check.php"
+    },
+    {
+      "path": "tools/local_constructor_structure.php",
+      "size": 9159,
+      "sha256": "205752d78970f198b2688bb533b818ca7574853e1ac9ef955ad7a42f16edcc5b",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/local_constructor_structure.php"
+    },
+    {
+      "path": "tools/file_usage_check.php",
+      "size": 18638,
+      "sha256": "2dd17514d7d7589d602379d0ec91a39c6ee3a2320eb802f9a30c0735bb71ffe6",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/file_usage_check.php"
+    },
+    {
+      "path": "tools/encrypt_ftp_pass.php",
+      "size": 566,
+      "sha256": "950ed3d9bf386ffe631f21f1f1767458246f3197ce2722d460afbeb0e981408e",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/tools/encrypt_ftp_pass.php"
+    },
+    {
+      "path": "ftp_manager/ftp_jobs_manager_controller.js",
+      "size": 7286,
+      "sha256": "31f50e4a987203dd36634a5c842b8175ec40cbc6c711ca6a8e26a427f37dacef",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_jobs_manager_controller.js"
+    },
+    {
+      "path": "ftp_manager/ftp_jobs_manager.php",
+      "size": 7602,
+      "sha256": "d54170d70a3b573515a797184032b76c2e388c6bd2d1c3f368a2dcdad95d64ce",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_jobs_manager.php"
+    },
+    {
+      "path": "ftp_manager/ftp_connections_logic.php",
+      "size": 6590,
+      "sha256": "d26ab97c560904648198105a42b1c99ddd50155830a4e4e33ec5154669dcb06d",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_connections_logic.php"
+    },
+    {
+      "path": "ftp_manager/cell_viewer_controller.js",
+      "size": 1615,
+      "sha256": "d2199ea8964df7ce724c1e58ab04892ba052d349cec97bfa9aaf064f74d56f1d",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/cell_viewer_controller.js"
+    },
+    {
+      "path": "ftp_manager/ftp_connections.php",
+      "size": 6044,
+      "sha256": "32f5bb27ab029c594f664b76b55b075810a5528c00bed9c3c80c0dac0dce54d0",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_connections.php"
+    },
+    {
+      "path": "ftp_manager/ftp_runs.php",
+      "size": 4345,
+      "sha256": "d58963e656abf232aa4602a1668686592a1fa94a11d46b55d0dcbd9719a92057",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_runs.php"
+    },
+    {
+      "path": "ftp_manager/ftp_client.php",
+      "size": 8645,
+      "sha256": "40e2d586ef0c63aeb787b8639a3e0e1fc59f73003105e2bfa136c0a50f9ab3e0",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_client.php"
+    },
+    {
+      "path": "ftp_manager/ftp_file_picker_embed.php",
+      "size": 7267,
+      "sha256": "f1ed865a6382df447f9d5c29e83f63e12fe9c61ef4240a21b493c2ae48274125",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_file_picker_embed.php"
+    },
+    {
+      "path": "ftp_manager/ftp_manifest.php",
+      "size": 4963,
+      "sha256": "7c8ea23076d2da774cf1d434375ced741864ad07d42f542caec467a66facaf4b",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_manifest.php"
+    },
+    {
+      "path": "ftp_manager/ftp_file_selector.php",
+      "size": 7288,
+      "sha256": "9eba3b09e282c8b36f2e8fb9131719ab439c0f72ddf2feb572fe27efba286e8c",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_file_selector.php"
+    },
+    {
+      "path": "ftp_manager/ftp_connections_controller.js",
+      "size": 5837,
+      "sha256": "2e0df7c55397ca0b2823924d51edeeb481c0f2c19c75e2feec74423d49480135",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_connections_controller.js"
+    },
+    {
+      "path": "ftp_manager/ftp_file_selector_logic.php",
+      "size": 8233,
+      "sha256": "e906b6733e82e00e6f81ae3b116450ed87bc8ef3d5fa1200910e187e4e29dbef",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_file_selector_logic.php"
+    },
+    {
+      "path": "ftp_manager/ftp_worker.php",
+      "size": 5386,
+      "sha256": "01b85bb58d1e7a784d467d1480b87ebc029b5e8162850bd740fe161b877f8e1f",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_worker.php"
+    },
+    {
+      "path": "ftp_manager/ftp_jobs_manager_logic.php",
+      "size": 4438,
+      "sha256": "2a7b41728e0a0da5c11f653ac4b23c694a86cd60a77ba942dfaae67642bdf3ea",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/ftp_jobs_manager_logic.php"
+    },
+    {
+      "path": "ftp_manager/cell_viewer.php",
+      "size": 1034,
+      "sha256": "3fc411718a1d22998a916ff0429ef280cb0e763de94382467e5b20d856d4fbf5",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/ftp_manager/cell_viewer.php"
+    },
+    {
+      "path": "health_system/bootstrap_hs.php",
+      "size": 862,
+      "sha256": "9cfb852cd875d27b8401cc285e01caf351865ab6b0f4c47df0566b91c32393f3",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/bootstrap_hs.php"
+    },
+    {
+      "path": "health_system/config_hs.php",
+      "size": 803,
+      "sha256": "97e032dd7de76595f45638726e7ab55224f671013da8e3c5d91f503900d060cf",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/config_hs.php"
+    },
+    {
+      "path": "health_system/controllers/UploadsController.php",
+      "size": 2816,
+      "sha256": "8675699afe098ac17bb9731c06ccaacb8c577743ee543fd83228c94b08462aba",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/controllers/UploadsController.php"
+    },
+    {
+      "path": "health_system/controllers/JobsController.php",
+      "size": 9477,
+      "sha256": "c8d25fc1e8c69668b13f588c5b4e822c0f3cebbf754fba691a2ae0d4e6846dc6",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/controllers/JobsController.php"
+    },
+    {
+      "path": "health_system/controllers/hs_logic.php",
+      "size": 22534,
+      "sha256": "e4437fb531ff12f95c016615fb9dc3da86c1e3f4b5e4094d2923862b304fb250",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/controllers/hs_logic.php"
+    },
+    {
+      "path": "health_system/controllers/Log.php",
+      "size": 4032,
+      "sha256": "f95b4eef07d4a70aac0b762e89ad7f6e003077e038642f696ab10987bd92f182",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/controllers/Log.php"
+    },
+    {
+      "path": "health_system/controllers/AdminTools.php",
+      "size": 7773,
+      "sha256": "897ab54787062a740a8c2bef6bed9ecd6dd3deb366ba5952d5917b531505bc1b",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/controllers/AdminTools.php"
+    },
+    {
+      "path": "health_system/controllers/ImportWorker.php",
+      "size": 43852,
+      "sha256": "31ae93404e339e21e19cf4649b46ed7355a00fa4f49aaf1a43a6eefe35651559",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/controllers/ImportWorker.php"
+    },
+    {
+      "path": "health_system/lib/hs_transform.php",
+      "size": 738,
+      "sha256": "24bcf63531b587f9079b7cd40b7f8b5ff1f19af604504ac29b5a5ceea5e80b77",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/lib/hs_transform.php"
+    },
+    {
+      "path": "health_system/lib/hs_lib.php",
+      "size": 5853,
+      "sha256": "765ead0c073f491ca6f936b0300747f2c91bea70122fcf80b4624c32c34a844a",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/lib/hs_lib.php"
+    },
+    {
+      "path": "health_system/lib/hs_parsers.php",
+      "size": 2239,
+      "sha256": "3f729e4361611efef125a78ad3eee014a2a9142f62f403f34f5062dcdee76c70",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/lib/hs_parsers.php"
+    },
+    {
+      "path": "health_system/lib/hs_paths.php",
+      "size": 1662,
+      "sha256": "1de5dcf7fa96f0aced7cbd0b83eee2ea00a1560b90b23e19a5602fd174f1ee40",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/lib/hs_paths.php"
+    },
+    {
+      "path": "health_system/ui/filePicker.js",
+      "size": 641,
+      "sha256": "1961ca5541223e5d6a20cc8bb2fefc16ed4774cde334e83cf2863cf88aff804c",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/ui/filePicker.js"
+    },
+    {
+      "path": "health_system/ui/jobsTable.js",
+      "size": 12216,
+      "sha256": "73127c9177787ec667796090216899349f3c0e0700783ea6afe05c1ee39f25bd",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/ui/jobsTable.js"
+    },
+    {
+      "path": "health_system/ui/runLogs.js",
+      "size": 7149,
+      "sha256": "e4537de5b75b2a24cc1143999a39eb6bed719ac96603c1b264bd777182c0a071",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/ui/runLogs.js"
+    },
+    {
+      "path": "health_system/ui/logsPanel.js",
+      "size": 2411,
+      "sha256": "e7a0b218bd15cc9d41b7574f65d7f3a8a3d259018b99f6d7adce60396a01c1f8",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/ui/logsPanel.js"
+    },
+    {
+      "path": "health_system/ui/apiClient.js",
+      "size": 7162,
+      "sha256": "449d5e838dda7a9629c6e6c61666c3f2b3e5f5375ed3a0587cf157992809e19c",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/ui/apiClient.js"
+    },
+    {
+      "path": "health_system/ui/jobModal.js",
+      "size": 8613,
+      "sha256": "f4f55b4ba681e907246efa19aa3d009a9f2d02884cb98c24e93cdef6a6b03f31",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/ui/jobModal.js"
+    },
+    {
+      "path": "health_system/ui/runProgress.js",
+      "size": 5181,
+      "sha256": "620f6916ed2d08a03df53543a863202f5b88e51e63974b9f29a00c8b52756136",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/ui/runProgress.js"
+    },
+    {
+      "path": "health_system/public/hs.css",
+      "size": 209,
+      "sha256": "d01b0f8c00b36da72a2716f682a32807f95b4d6f62ece9114c29f0aa64c8b803",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/public/hs.css"
+    },
+    {
+      "path": "health_system/public/hs.js",
+      "size": 180,
+      "sha256": "f842d41f85af4915d56a009622d7178d2060b6a1b0f0adabb3fe5c948e11aa5d",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/public/hs.js"
+    },
+    {
+      "path": "health_system/public/index.php",
+      "size": 10223,
+      "sha256": "c176c6528df1489d3fb89ee60c353b2081680c1b67911d3ecd09d507f03185bd",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/public/index.php"
+    },
+    {
+      "path": "health_system/bin/hs_worker.php",
+      "size": 3204,
+      "sha256": "8b1396304781ac0632db410f0c5901617fa0a1aaedf51f7d5fab0d8d48395ca8",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_system/bin/hs_worker.php"
+    },
+    {
+      "path": "health_check/UploadsController.php",
+      "size": 9482,
+      "sha256": "a7e47219f99f46bc0a5fdff29832a71cc3a6d874fc55be249993f55c5a896c0a",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/UploadsController.php"
+    },
+    {
+      "path": "health_check/health_check_validate_parameters.php",
+      "size": 3718,
+      "sha256": "654f3a67891a016ca32b768b0ef653b6e6e0e6d439ab5ef39a4e732bee8c5f44",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_validate_parameters.php"
+    },
+    {
+      "path": "health_check/health_check.php",
+      "size": 12358,
+      "sha256": "4c680637ae442e88846c368428ae22ca101b4f0387d1ecafd59bf036f9a6bf06",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check.php"
+    },
+    {
+      "path": "health_check/ManufacturerRegistry.php",
+      "size": 579,
+      "sha256": "1cc7f9dbc1f26e99753a59d015cdb14c23ec089b1480d3d2426b7f9cec700ada",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/ManufacturerRegistry.php"
+    },
+    {
+      "path": "health_check/inventory_check_logic.php",
+      "size": 20733,
+      "sha256": "466335e79523c2653d241f78b947eeb28a60d9d24c8f2ec082c655609d51f658",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/inventory_check_logic.php"
+    },
+    {
+      "path": "health_check/health_check_controller.js",
+      "size": 2105,
+      "sha256": "c146628e315eaf416e00be08e636435427a4de4bfcd5a7a8c561c9588e2e9679",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_controller.js"
+    },
+    {
+      "path": "health_check/inventory_check_controller.js",
+      "size": 31232,
+      "sha256": "87589c662e6ba39cf81effda42c45a0cd5c2c3fb16944326d38e9c92a2a8220e",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/inventory_check_controller.js"
+    },
+    {
+      "path": "health_check/health_check_efb_details.php",
+      "size": 7400,
+      "sha256": "67ea57aa31da2120130cff724068081d2e5b25acf749ae8e9f73ff8daf5e9462",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_efb_details.php"
+    },
+    {
+      "path": "health_check/JobsController.php",
+      "size": 4921,
+      "sha256": "933661738771be0898958453f06a7072d2bc773cd3c33fc01d600b3dcb0e2af5",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/JobsController.php"
+    },
+    {
+      "path": "health_check/progress.js",
+      "size": 576,
+      "sha256": "6770b94b704591ca611219d0de4c352a58051f8df6edf908fa9fa7ab674ce9c9",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/progress.js"
+    },
+    {
+      "path": "health_check/health_check_parameters.php",
+      "size": 7719,
+      "sha256": "a43bc412bdb7c4f06a90364bc8e7cd92c2b508278ad215d85485bfe540d3d31f",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_parameters.php"
+    },
+    {
+      "path": "health_check/jobsTable.js",
+      "size": 16730,
+      "sha256": "f4169a9af09584cf84be56fa9c627be5539d976a6d8ecbb2bdf89dea6f9fe317",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/jobsTable.js"
+    },
+    {
+      "path": "health_check/health_check_parameters_by_category.php",
+      "size": 7047,
+      "sha256": "e3716296f8d5d0356758f916d603e5ab1ad216820dd0fd3bd2234c8e96c94f9f",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_parameters_by_category.php"
+    },
+    {
+      "path": "health_check/config.php",
+      "size": 305,
+      "sha256": "78a804f2cf0a366ed28ea92f86e34c8c7cf9716cdbcb4a1bd569ad4f1099d894",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/config.php"
+    },
+    {
+      "path": "health_check/health_check_validate_parameters_logic.php",
+      "size": 5534,
+      "sha256": "bafd0db612a79b24d92556084afd89ab7f95a9b821fc99760050287bfba9671c",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_validate_parameters_logic.php"
+    },
+    {
+      "path": "health_check/health_check_lib.php",
+      "size": 32267,
+      "sha256": "5f93af133d11ae0df9db8cbb4d2aff4db1e4390dc81ce5b2619d5d08b41658f6",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_lib.php"
+    },
+    {
+      "path": "health_check/XlsxParser.php",
+      "size": 870,
+      "sha256": "cd50e275e8202e471517fadbc464ccdcfa6cb883fdea232e321854ca687f08ee",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/XlsxParser.php"
+    },
+    {
+      "path": "health_check/helpers.php",
+      "size": 12894,
+      "sha256": "97cea134aa9e4f4433b15e31fc505bbe84b72039b7742e267084545859d87732",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/helpers.php"
+    },
+    {
+      "path": "health_check/bootstrap.php",
+      "size": 1883,
+      "sha256": "52cc460ba1e3c57a5419dbb02625cda494400fb4c2372efd7002a8398e422979",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/bootstrap.php"
+    },
+    {
+      "path": "health_check/health_check_inline_details.php",
+      "size": 7568,
+      "sha256": "c21d2c463ab9244c52a2ecc0b4b4efa577af6e8e2ae7c4331054ee38b2865e42",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_inline_details.php"
+    },
+    {
+      "path": "health_check/health_check_lindy_details.php",
+      "size": 7546,
+      "sha256": "fc5ea207b9da10c2ab0b8d80ccb976bdaad2ec9d3a41bb2c97a78654ca1c76bf",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_lindy_details.php"
+    },
+    {
+      "path": "health_check/apiClient.js",
+      "size": 1735,
+      "sha256": "7aac6b0d3999af9d49cae57aa717e84b0e1c7dc8eb5f2640544c325157c788bc",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/apiClient.js"
+    },
+    {
+      "path": "health_check/legacy_shims.php",
+      "size": 593,
+      "sha256": "659e2a469d0198bd17f310dc61d5926f15117149e831096dc2e07ac03f158dcb",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/legacy_shims.php"
+    },
+    {
+      "path": "health_check/CsvParser.php",
+      "size": 570,
+      "sha256": "6e31e2c7acb1ea119750ebe94702e7e47b981209881332d1fb70d9a058db63a3",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/CsvParser.php"
+    },
+    {
+      "path": "health_check/inventory_check.php",
+      "size": 10642,
+      "sha256": "2518ca1da2c9d34222bf789980b198e7178b2b86145c0e630b10271d589c96ca",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/inventory_check.php"
+    },
+    {
+      "path": "health_check/import_jobs_logic.php",
+      "size": 8207,
+      "sha256": "d6f4b96b88b3fac1f0aee583b6344085bd9ade4cce0d479d00bc20b5ac86c10d",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/import_jobs_logic.php"
+    },
+    {
+      "path": "health_check/health_parameters_mapper_controller.js",
+      "size": 7146,
+      "sha256": "53884a0d60804e9645ae2d7e857dd1c9be110719bf07795a48e29701da163ee9",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_parameters_mapper_controller.js"
+    },
+    {
+      "path": "health_check/health_check_parameters_by_category_logic.php",
+      "size": 6635,
+      "sha256": "274a1cb6dc51fb05240083d7837b23e539dfcac83c7f335f78a5f51f4c1ebc24",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_parameters_by_category_logic.php"
+    },
+    {
+      "path": "health_check/UploadService.php",
+      "size": 1134,
+      "sha256": "5a8f66d696e9ffe7b7414c1ae96b870cd50e322052e1c89849a6a68109d1ec60",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/UploadService.php"
+    },
+    {
+      "path": "health_check/health_check_parameters_by_category_controller.js",
+      "size": 6747,
+      "sha256": "2c1b9d93f9e363480de8004e607507fa62a9207e0a02e1236b1c80eab6fb56b9",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_parameters_by_category_controller.js"
+    },
+    {
+      "path": "health_check/health_check_wentronic_details.php",
+      "size": 7631,
+      "sha256": "f0f8340d46b73bc2dc2575ae48777997d5daa2ac8bc4319548a5a10c1b3f0a6e",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_wentronic_details.php"
+    },
+    {
+      "path": "health_check/ImportService.php",
+      "size": 2816,
+      "sha256": "7a43f74ddfdb100c8c79b8ba95a7323f6723168cd580b2b8befcccaab1c37920",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/ImportService.php"
+    },
+    {
+      "path": "health_check/uploadForm.js",
+      "size": 7420,
+      "sha256": "27bec73e2d20462660b7ad0bb8a7ea5da64fc3f96fafe83373306b7220ac4393",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/uploadForm.js"
+    },
+    {
+      "path": "health_check/http.php",
+      "size": 949,
+      "sha256": "1c73833e18aab264c1bbd898c5579addecb362507f443b6c57df020d68283080",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/http.php"
+    },
+    {
+      "path": "health_check/health_check_validate_parameters_controller.js",
+      "size": 2944,
+      "sha256": "346437577b18165254a3ddb4b434b326af02a9345f2eace8cbdc37f1bcaf2ad2",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_validate_parameters_controller.js"
+    },
+    {
+      "path": "health_check/health_check_roline_details.php",
+      "size": 8183,
+      "sha256": "92881e4ee1823b88788697c7aee16dd2c2b9c23ba5f2cd26afb8a866de31773d",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_check_roline_details.php"
+    },
+    {
+      "path": "health_check/Router.php",
+      "size": 1207,
+      "sha256": "8062280808dafd52751a9b87ad2bac76ea98c7ca0b533638d20f1bf539d65a4e",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/Router.php"
+    },
+    {
+      "path": "health_check/health_parameters_mapper_logic.php",
+      "size": 3751,
+      "sha256": "237b193de1c6901b6514f2e32b9a3456f36d8d06e540bd3aa005d42065db8e4f",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_parameters_mapper_logic.php"
+    },
+    {
+      "path": "health_check/StatusStore.php",
+      "size": 841,
+      "sha256": "9cce65d1c2344ae9867cd9ed7c9800bdb53b4710cd6ac5a1f9e1e65332b452bc",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/StatusStore.php"
+    },
+    {
+      "path": "health_check/health_parameters_mapper.php",
+      "size": 2620,
+      "sha256": "19d35b077774718659e94a4bf28352b70062967a8a834db667d34dd40cd8390a",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/health_parameters_mapper.php"
+    },
+    {
+      "path": "health_check/inventory_check_viewer.php",
+      "size": 2385,
+      "sha256": "697aba73fe458c5d3de787a7b230d7fdbe48fd753dcd19efd4a92bd0edc4faf6",
+      "raw_url": "https://raw.githubusercontent.com/rbohacik-cmd/constructor-mirror/main/health_check/inventory_check_viewer.php"
+    }
+  ]
+}
