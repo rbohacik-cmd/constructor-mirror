@@ -1,0 +1,5 @@
+.table td, .table th { vertical-align: middle; }
+.progress { height: 0.9rem; }
+
+/* Make disabled buttons look disabled and unclickable without layout shifts */
+button.pe-none[disabled] { cursor: not-allowed; }

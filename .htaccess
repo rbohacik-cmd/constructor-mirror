@@ -1,0 +1,4 @@
+# deny secrets
+RedirectMatch 404 ^/.secrets/.*$
+# optionally protect data (comment out if you want web listing)
+# RedirectMatch 404 ^/data/.*$
